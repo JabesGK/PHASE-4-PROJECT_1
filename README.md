@@ -40,7 +40,7 @@ Products like iPhone have relatively higher negative sentiment.
 
 ### 4. Natural Language Processing (NLP)
 
-We clean, tokenize, lemmatize, and vectorize tweet text using both unigram and n-gram TF-IDF. Various preprocessing strategies were explored to improve feature richness and model readiness.
+We clean, tokenize, and vectorize tweet text using both unigram and n-gram TF-IDF. Various preprocessing strategies were explored to improve feature richness and model readiness.
 
 ### 5. Model Training and Evaluation
 
@@ -78,7 +78,7 @@ Visual tools used: bar charts, heatmaps, confusion matrices, pie charts, and sca
 
 ## 7. Conclusion and Recommendations
 
-## Final Takeaways:
+## Conclusion:
 
 Models reliably classify positive sentiment but struggle with negative/neutral due to class imbalance and linguistic overlap.
 
